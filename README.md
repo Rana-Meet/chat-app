@@ -1,4 +1,5 @@
-# Chat App NEw 
+# Chat App 
+
 
 A real-time one-to-one chat app built with **Laravel 12**, **Laravel Reverb** (websockets), **Tailwind CSS** and **Vite**. Messages appear instantly for the other person, with no page refresh.
 
