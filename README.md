@@ -22,7 +22,7 @@ A real-time one-to-one chat app built with **Laravel 12**, **Laravel Reverb** (w
 
 PHP needs the usual Laravel extensions: `mbstring`, `openssl`, `pdo_mysql`, `curl`, `fileinfo`, `xml`, `zip`.
 
-## Installation
+## Installation   ]
 
 ```bash
 # 1. Clone and enter the project
