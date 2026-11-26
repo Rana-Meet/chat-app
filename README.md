@@ -3,7 +3,7 @@
 
 
 A real-time one-to-one chat app built with **Laravel 12**, **Laravel Reverb** (websockets), **Tailwind CSS** and **Vite**. Messages appear instantly for the other person, with no page refresh.
-SC
+
 ## Features
 
 - Register, log in and log out (Laravel Breeze authentication)
